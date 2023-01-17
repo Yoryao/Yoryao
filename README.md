@@ -1,15 +1,25 @@
-### Hi there 👋
+# Hi, I'm George! 
+## So glad you being here!
 
 
-**Yoryao/Yoryao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can also find me in [my personal web page!](https://www.jorgerivera.com.ar)
 
-Here are some ideas to get you started:
+or if you wish by mail [info@jorgerivera.com.ar!](mailto:info@jorgerivera.com.ar)
 
-- 🔭 I’m currently working on FrontEnd Mentor ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+and also [on linkedIn](https://www.linkedin.com/in/jorge-rivera-frontend/)
+
+
+### Looking for some info about me?
+
+- I´m studying at *[Digital House](https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer)* to get my knowledges certified! (strong)
+- My wish is to be part of a team to face challenging projects!
+- I start my studies in 2020. 
+- I'm always open to collaborate with beginners or in tutoring programs.
+- I love to learn new tools to increase my skills: 
+ [x] Html, Css, Javascript, ReactJs
+ [x] mySql, mySqlWorkbench, Firebase.
+ [x] Git, gitHub, Vercel, Figma.
+ [x] Sass, BootsStrap, jQuery.
+- I work as an Security Sistems Auditor in SouthAmerica.
+
+
