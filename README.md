@@ -16,4 +16,4 @@ You can also find me in [my personal web page!](https://www.jorgerivera.com.ar) 
 
 🏆  Skills: :computer: Html, Css, Javascript, ReactJs :books: mySql, mySqlWorkbench, Firebase. :wrench: Git, gitHub, Vercel, Figma. :art: Sass, BootsStrap, jQuery.
 
-🗣️ Let me know about you!
+📢Let me know about you!
