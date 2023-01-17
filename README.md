@@ -14,6 +14,6 @@ You can also find me in [my personal web page!](https://www.jorgerivera.com.ar) 
 
 :baby: I start my studies in 2020. :bulb: I love to learn new tools to increase my skills: 
 
-### Skills: :computer: Html, Css, Javascript, ReactJs :books: mySql, mySqlWorkbench, Firebase. :wrench: Git, gitHub, Vercel, Figma. :art: Sass, BootsStrap, jQuery.
+🏆  Skills: :computer: Html, Css, Javascript, ReactJs :books: mySql, mySqlWorkbench, Firebase. :wrench: Git, gitHub, Vercel, Figma. :art: Sass, BootsStrap, jQuery.
 
 Let me know about you!
