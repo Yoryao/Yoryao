@@ -12,7 +12,7 @@ You can also find me in [my personal web page!](https://www.jorgerivera.com.ar) 
 
 :confetti_ball: My wish is to be part of a team to face challenging projects! :sos: I'm always open to collaborate with beginners or in tutoring programs.
 
-:baby: I start my studies in 2020. :bulb: I love to learn new tools to increase my skills: 
+:baby: I started studying development in 2020. :bulb: I love to learn new tools to increase my skills: 
 
 🏆  Skills: :computer: Html, Css, Javascript, ReactJs :books: mySql, mySqlWorkbench, Firebase. :wrench: Git, gitHub, Vercel, Figma. :art: Sass, BootsStrap, jQuery.
 
