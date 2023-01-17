@@ -10,24 +10,10 @@ You can also find me in [my personal web page!](https://www.jorgerivera.com.ar) 
 
 :muscle: I´m studying at *[Digital House](https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer)* to get my knowledges certified! 
 
-:confetti_ball: My wish is to be part of a team to face challenging projects!
+:confetti_ball: My wish is to be part of a team to face challenging projects! :sos: I'm always open to collaborate with beginners or in tutoring programs.
 
-:baby: I start my studies in 2020. 
+:baby: I start my studies in 2020. :bulb: I love to learn new tools to increase my skills: 
 
-:sos: I'm always open to collaborate with beginners or in tutoring programs.
-
-:bulb: I love to learn new tools to increase my skills: 
-
-:computer: Html, Css, Javascript, ReactJs
-
-:books: mySql, mySqlWorkbench, Firebase.
-
-:wrench: Git, gitHub, Vercel, Figma.
-
-:art: Sass, BootsStrap, jQuery.
-
-:warning: I work as an Security Sistems Auditor in SouthAmerica.
+## Skills: :computer: Html, Css, Javascript, ReactJs :books: mySql, mySqlWorkbench, Firebase. :wrench: Git, gitHub, Vercel, Figma. :art: Sass, BootsStrap, jQuery.
 
 Let me know about you!
-
-
