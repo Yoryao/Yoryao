@@ -3,7 +3,7 @@
 ## So glad you being here!  :smiley:
 
 
-You can also find me in [my personal web page!](https://www.jorgerivera.com.ar) :globe_with_meridians:  or if you wish by mail [info@jorgerivera.com.ar!](mailto:info@jorgerivera.com.ar) :email:  and also [on linkedIn](https://www.linkedin.com/in/jorge-rivera-frontend/) :bowtie:
+You can also find me in [my personal web page!](https://www.jorgerivera.com.ar) :globe_with_meridians:  or if you wish by mail [info@jorgerivera.com.ar](mailto:info@jorgerivera.com.ar) :email:  and also [on linkedIn](https://www.linkedin.com/in/jorge-rivera-frontend/) :bowtie:
 
 
 ### Looking for some info about me?
