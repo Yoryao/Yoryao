@@ -14,6 +14,6 @@
 
 :baby: I started studying development in 2020. :bulb: I love to learn new tools to increase my skills: 
 
-🏆  Skills: :computer: Html, Css, Javascript, ReactJs :books: mySql, mySqlWorkbench, Firebase. :wrench: Git, gitHub, Vercel, Figma. :art: Sass, BootsStrap, jQuery.
+🏆  Skills: :computer: Html, Css, Javascript, ReactJs, Java, Maven, Sring, Testing :books: mySql, mySqlWorkbench, Firebase, Oracle, Hadoop, ElasticSearch, Ux-UI,  :wrench: Git, gitHub, Vercel, Figma. :art: Sass, BootsStrap, jQuery.
 
 📢Let me know about you!
